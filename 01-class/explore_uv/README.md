@@ -1,5 +1,6 @@
 # Initialize uv project 
-`uv init --package project` OR
+`uv init --package project` 
+OR
 `uv init project`
 
 # create virtual environment
